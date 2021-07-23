@@ -1,6 +1,6 @@
 package org.jacoco.examples.maven.java;
 
-public class HelloWorld Hi. {
+public class HelloWorld Hi {
 		
 		public String getMessage(boolean bigger) {
 					if (bigger) {
